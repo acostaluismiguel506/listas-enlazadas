@@ -9,7 +9,7 @@ package newpackage;
  * @author ADMIN
  */
 public class listaenlazada {
-    private Nodo cabeza;
+    private nodo cabeza;
   
 
     public listaenlazada() {

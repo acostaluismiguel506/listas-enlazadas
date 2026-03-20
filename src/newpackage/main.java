@@ -40,9 +40,9 @@ public class main {
        
 
     System.out.println("\n== ANATOMIA DE UN NODO ==");
-    Nodo n1 = new Nodo(100);
-    Nodo n2 = new Nodo(200);
-    Nodo n3 = new Nodo(300);
+    nodo n1 = new Nodo(100);
+    nodo n2 = new Nodo(200);
+    nodo n3 = new Nodo(300);
 
     n1.enlaceNodo = n2;
     n2.enlaceNodo = n3;

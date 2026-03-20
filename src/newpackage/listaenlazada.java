@@ -70,7 +70,7 @@ public void insertar(int valor) {
 
     public int tamaño() {
         int contador = 0;
-        Nodo actual = cabeza;
+        nodo actual = cabeza;
         while (actual != null) {
             contador++;
             actual = (nodo) actual.siguiente;
